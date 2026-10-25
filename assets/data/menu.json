@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "category": "Boissons Chaudes",
+    "price": 18,
+    "currency": "DH",
+    "image": "assets/images/products/espresso.jpg",
+    "description": "Café italien riche en arômes.",
+    "available": true,
+    "popular": true
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "category": "Boissons Chaudes",
+    "price": 25,
+    "currency": "DH",
+    "image": "assets/images/products/cappuccino.jpg",
+    "description": "Espresso avec mousse de lait.",
+    "available": true,
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Café Latte",
+    "category": "Boissons Chaudes",
+    "price": 28,
+    "currency": "DH",
+    "image": "assets/images/products/latte.jpg",
+    "description": "Espresso avec lait chaud.",
+    "available": true,
+    "popular": false
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "category": "Boissons Chaudes",
+    "price": 20,
+    "currency": "DH",
+    "image": "assets/images/products/americano.jpg",
+    "description": "Espresso allongé à l'eau chaude.",
+    "available": true,
+    "popular": false
+  },
+  {
+    "id": 5,
+    "name": "Thé à la Menthe",
+    "category": "Boissons Chaudes",
+    "price": 15,
+    "currency": "DH",
+    "image": "assets/images/products/tea.jpg",
+    "description": "Thé marocain traditionnel.",
+    "available": true,
+    "popular": true
+  },
+
+  {
+    "id": 6,
+    "name": "Mojito",
+    "category": "Boissons Froides",
+    "price": 35,
+    "currency": "DH",
+    "image": "assets/images/products/mojito.jpg",
+    "description": "Boisson fraîche au citron et menthe.",
+    "available": true,
+    "popular": true
+  },
+  {
+    "id": 7,
+    "name": "Orange Juice",
+    "category": "Boissons Froides",
+    "price": 28,
+    "currency": "DH",
+    "image": "assets/images/products/orange-juice.jpg",
+    "description": "Jus d'orange frais.",
+    "available": true,
+    "popular": false
+  },
+  {
+    "id": 8,
+    "name": "Lemon Juice",
+    "category": "Boissons Froides",
+    "price": 25,
+    "currency": "DH",
+    "image": "assets/images/products/lemon-juice.jpg",
+    "description": "Jus de citron naturel.",
+    "available": true,
+    "popular": false
+  },
+  {
+    "id": 9,
+    "name": "Ice Coffee",
+    "category": "Boissons Froides",
+    "price": 30,
+    "currency": "DH",
+    "image": "assets/images/products/ice-coffee.jpg",
+    "description": "Café glacé rafraîchissant.",
+    "available": true,
+    "popular": true
+  },
+  {
+    "id": 10,
+    "name": "Milkshake Chocolat",
+    "category": "Boissons Froides",
+    "price": 38,
+    "currency": "DH",
+    "image": "assets/images/products/milkshake.jpg",
+    "description": "Milkshake au chocolat.",
+    "available": true,
+    "popular": false
+  },
+
+  {
+    "id": 11,
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "price": 35,
+    "currency": "DH",
+    "image": "assets/images/products/cheesecake.jpg",
+    "description": "Cheesecake crémeux.",
+    "available": true,
+    "popular": true
+  },
+  {
+    "id": 12,
+    "name": "Brownie",
+    "category": "Desserts",
+    "price": 22,
+    "currency": "DH",
+    "image": "assets/images/products/brownie.jpg",
+    "description": "Brownie au chocolat.",
+    "available": true,
+    "popular": true
+  },
+  {
+    "id": 13,
+    "name": "Cookies",
+    "category": "Desserts",
+    "price": 18,
+    "currency": "DH",
+    "image": "assets/images/products/cookies.jpg",
+    "description": "Cookies aux pépites de chocolat.",
+    "available": true,
+    "popular": false
+  },
+  {
+    "id": 14,
+    "name": "Tiramisu",
+    "category": "Desserts",
+    "price": 32,
+    "currency": "DH",
+    "image": "assets/images/products/tiramisu.jpg",
+    "description": "Dessert italien classique.",
+    "available": true,
+    "popular": false
+  },
+  {
+    "id": 15,
+    "name": "Crêpe Nutella",
+    "category": "Desserts",
+    "price": 30,
+    "currency": "DH",
+    "image": "assets/images/products/crepe-nutella.jpg",
+    "description": "Crêpe garnie de Nutella.",
+    "available": true,
+    "popular": true
+  }
+]

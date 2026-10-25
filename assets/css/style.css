@@ -1,0 +1,227 @@
+/* ===========================
+   GLOBAL
+=========================== */
+
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+
+html{
+
+    scroll-behavior:smooth;
+
+}
+
+body{
+
+    font-family:'Poppins',sans-serif;
+    color:#333;
+
+}
+
+/* ===========================
+   NAVBAR
+=========================== */
+
+.navbar-brand{
+
+    color:#6F4E37;
+    font-size:1.5rem;
+
+}
+
+.nav-link{
+
+    font-weight:500;
+
+}
+
+.nav-link:hover{
+
+    color:#6F4E37;
+
+}
+
+/* ===========================
+   HERO
+=========================== */
+
+.hero{
+
+    height:90vh;
+
+    background:linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
+    url("https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1600");
+
+    background-size:cover;
+    background-position:center;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    color:white;
+
+}
+
+.hero h1{
+
+    font-size:4rem;
+    font-weight:700;
+
+}
+
+.hero p{
+
+    font-size:1.2rem;
+    margin:20px 0;
+
+}
+
+.btn-coffee{
+
+    background:#6F4E37;
+    color:white;
+    padding:15px 35px;
+    border-radius:50px;
+
+}
+
+.btn-coffee:hover{
+
+    background:#8B5E3C;
+    color:white;
+
+}
+
+/* ===========================
+   TITLES
+=========================== */
+
+.section-title{
+
+    text-align:center;
+    margin-bottom:50px;
+    color:#6F4E37;
+    font-weight:700;
+
+}
+
+/* ===========================
+   CATEGORY
+=========================== */
+
+.category-card{
+
+    background:white;
+    padding:40px 20px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+}
+
+.category-card:hover{
+
+    transform:translateY(-10px);
+
+}
+
+.category-card i{
+
+    font-size:55px;
+    color:#6F4E37;
+
+    margin-bottom:20px;
+
+}
+
+/* ===========================
+   MENU
+=========================== */
+
+#menu-container{
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:30px;
+
+}
+
+/* ===========================
+   FOOTER
+=========================== */
+
+footer{
+
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:20px;
+
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:768px){
+
+.hero h1{
+
+    font-size:2.5rem;
+
+}
+
+.hero p{
+
+    font-size:1rem;
+
+}
+/* ===========================
+   CONTACT
+=========================== */
+
+#contact{
+
+    background:#ffffff;
+
+}
+
+#contact .card{
+
+    border-radius:20px;
+
+}
+
+#contact p{
+
+    font-size:18px;
+    margin-bottom:18px;
+
+}
+
+#contact i{
+
+    margin-right:10px;
+
+}
+
+#contact .btn{
+
+    border-radius:50px;
+    padding:12px 25px;
+
+}
+}
